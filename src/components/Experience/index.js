@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function index() {
     return (
-        <div>
+        <section>
             <h1>Experience</h1>
 
             <h2>Instituto Mexicano del Seguro Social</h2>
@@ -15,6 +15,6 @@ export default function index() {
             <p>Provided thorough pysical evaluations of patients.</p>
             <p>Work team with nurses, radiological personal and others doctors.</p>
             <p>Provide a medical report to family members.</p>
-        </div>
+        </section>
     )
 }
